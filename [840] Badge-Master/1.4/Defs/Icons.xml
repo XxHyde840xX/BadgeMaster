@@ -2168,7 +2168,7 @@
 		<icon>roman-nums-1/G-15</icon>
 	</RR_PawnBadge.BadgeDef>
 	
-	<!---------------------AUTHOR DIVISION SILVER GOLD-------------------------->
+	<!--  AUTHOR DIVISION SILVER GOLD -->
 	
 	<RR_PawnBadge.BadgeDef>
 		<defName>S-01</defName>
